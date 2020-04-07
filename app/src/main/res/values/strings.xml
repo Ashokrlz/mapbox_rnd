@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mbtiles demo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="access_token">pk.eyJ1IjoiaW1hc2hva3N1bmRhciIsImEiOiJjazhwb3JkYjAwMTIwM2Rsa215cHNzc2kyIn0.8swctQ-Dv0I3516ZkUiIFQ</string>
+</resources>
